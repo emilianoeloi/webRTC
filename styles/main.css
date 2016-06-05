@@ -1,0 +1,12 @@
+*, html {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #80BD9E;
+  background-color: #FF420E;
+  float: left;
+}
